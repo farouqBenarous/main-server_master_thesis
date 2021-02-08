@@ -1,0 +1,16 @@
+INSERT INTO almonds(index,index_one_hot,title) VALUES (0,'[1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]','tardy nonpareil');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (1,'[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]','fra gulio grade');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (2,'[0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]','atocha');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (3,'[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]','picantil');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (4,'[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]','pri morsky');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (5,'[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]','peerless');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (6,'[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]','moncaio');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (7,'[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]','marta');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (8,'[0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]','ferralise');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (9,'[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]','garrigaes');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (10,'[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]','masbovera');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (11,'[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]','ai');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (12,'[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]','planeta');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (13,'[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]','texas');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (14,'[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]','philys');
+INSERT INTO almonds(index,index_one_hot,title) VALUES (15,'[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]','desmayo lagueto');
