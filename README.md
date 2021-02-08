@@ -4,7 +4,7 @@ This is gonna be the main service to face the client Side , its gonna be built u
 
 
 # Infrastructure Schema
-![alt text](https://github.com/farouqBenarous/main-server_master_thesis/master/figure5.3.png?raw=true)
+![alt text](https://github.com/farouqBenarous/main-server_master_thesis/blob/master/figure%205.3.png?raw=true)
 
 # How to Run
 
